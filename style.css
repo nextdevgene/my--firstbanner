@@ -1,0 +1,51 @@
+* {
+    background-color: #f6f8ff;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#subtitle {
+    font-size: 14px;
+}
+
+#title {
+    font-size: 48px;
+}
+
+#description {
+    font-size: 16px;
+}
+
+#pp {
+    height: 900px;
+}
+
+#subContainer {
+    width: 45%;
+}
+
+#subContainer2 {
+    display: flex;
+}
+
+#colorBtn {
+    background-color: #078D84;
+    border: none;
+    padding: 20px 40px;
+    font-size: 18px;
+    color: white;
+    border-radius: 8px;
+}
+
+#btn {
+    margin-left: 10px;
+    border: 1px solid #078D84;
+    padding: 20px 40px;
+    font-size: 18px;
+    color: #078D84;
+    border-radius: 8px;
+}
